@@ -1,6 +1,7 @@
 <template>
  <HeaderComp/>
     <h1>Hello {{users.name}} Welcome to Home Component</h1>
+    <h2>This list shows the list of added restaurnets</h2>
     <table border="1">
   <thead>
     <tr>
