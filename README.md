@@ -4,6 +4,12 @@
 ```
 yarn install
 ```
+## Project Description
+```
+<!-- In this project different components are designed for the ease of reuseability   -->
+<!-- Naming conventions are standrized -->
+<!-- Styles to components are specified in app.vue file -->
+```
 
 ### Compiles and hot-reloads for development
 ```
