@@ -2,8 +2,9 @@
   "compilerOptions": {
     "target": "es5",
     "module": "esnext",
-    "baseUrl": "./",
+    "baseUrl": "./signin",
     "moduleResolution": "node",
+    "jsx": "preserve",
     "paths": {
       "@/*": [
         "src/*"
